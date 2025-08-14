@@ -1,0 +1,15 @@
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q2_HealthcareSystem\bin\Debug\net8.0\Q2_HealthcareSystem.exe
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q2_HealthcareSystem\bin\Debug\net8.0\Q2_HealthcareSystem.deps.json
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q2_HealthcareSystem\bin\Debug\net8.0\Q2_HealthcareSystem.runtimeconfig.json
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q2_HealthcareSystem\bin\Debug\net8.0\Q2_HealthcareSystem.dll
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q2_HealthcareSystem\bin\Debug\net8.0\Q2_HealthcareSystem.pdb
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q2_HealthcareSystem\obj\Debug\net8.0\Q2_HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q2_HealthcareSystem\obj\Debug\net8.0\Q2_HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q2_HealthcareSystem\obj\Debug\net8.0\Q2_HealthcareSystem.AssemblyInfo.cs
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q2_HealthcareSystem\obj\Debug\net8.0\Q2_HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q2_HealthcareSystem\obj\Debug\net8.0\Q2_HealthcareSystem.sourcelink.json
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q2_HealthcareSystem\obj\Debug\net8.0\Q2_HealthcareSystem.dll
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q2_HealthcareSystem\obj\Debug\net8.0\refint\Q2_HealthcareSystem.dll
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q2_HealthcareSystem\obj\Debug\net8.0\Q2_HealthcareSystem.pdb
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q2_HealthcareSystem\obj\Debug\net8.0\Q2_HealthcareSystem.genruntimeconfig.cache
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q2_HealthcareSystem\obj\Debug\net8.0\ref\Q2_HealthcareSystem.dll
