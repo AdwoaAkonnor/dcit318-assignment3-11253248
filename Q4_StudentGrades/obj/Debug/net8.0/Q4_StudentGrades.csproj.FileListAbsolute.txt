@@ -1,0 +1,15 @@
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q4_StudentGrades\bin\Debug\net8.0\Q4_StudentGrades.exe
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q4_StudentGrades\bin\Debug\net8.0\Q4_StudentGrades.deps.json
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q4_StudentGrades\bin\Debug\net8.0\Q4_StudentGrades.runtimeconfig.json
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q4_StudentGrades\bin\Debug\net8.0\Q4_StudentGrades.dll
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q4_StudentGrades\bin\Debug\net8.0\Q4_StudentGrades.pdb
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q4_StudentGrades\obj\Debug\net8.0\Q4_StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q4_StudentGrades\obj\Debug\net8.0\Q4_StudentGrades.AssemblyInfoInputs.cache
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q4_StudentGrades\obj\Debug\net8.0\Q4_StudentGrades.AssemblyInfo.cs
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q4_StudentGrades\obj\Debug\net8.0\Q4_StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q4_StudentGrades\obj\Debug\net8.0\Q4_StudentGrades.sourcelink.json
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q4_StudentGrades\obj\Debug\net8.0\Q4_StudentGrades.dll
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q4_StudentGrades\obj\Debug\net8.0\refint\Q4_StudentGrades.dll
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q4_StudentGrades\obj\Debug\net8.0\Q4_StudentGrades.pdb
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q4_StudentGrades\obj\Debug\net8.0\Q4_StudentGrades.genruntimeconfig.cache
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q4_StudentGrades\obj\Debug\net8.0\ref\Q4_StudentGrades.dll
