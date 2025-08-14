@@ -1,0 +1,15 @@
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q3_WarehouseInventory\bin\Debug\net8.0\Q3_WarehouseInventory.exe
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q3_WarehouseInventory\bin\Debug\net8.0\Q3_WarehouseInventory.deps.json
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q3_WarehouseInventory\bin\Debug\net8.0\Q3_WarehouseInventory.runtimeconfig.json
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q3_WarehouseInventory\bin\Debug\net8.0\Q3_WarehouseInventory.dll
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q3_WarehouseInventory\bin\Debug\net8.0\Q3_WarehouseInventory.pdb
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q3_WarehouseInventory\obj\Debug\net8.0\Q3_WarehouseInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q3_WarehouseInventory\obj\Debug\net8.0\Q3_WarehouseInventory.AssemblyInfoInputs.cache
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q3_WarehouseInventory\obj\Debug\net8.0\Q3_WarehouseInventory.AssemblyInfo.cs
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q3_WarehouseInventory\obj\Debug\net8.0\Q3_WarehouseInventory.csproj.CoreCompileInputs.cache
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q3_WarehouseInventory\obj\Debug\net8.0\Q3_WarehouseInventory.sourcelink.json
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q3_WarehouseInventory\obj\Debug\net8.0\Q3_WarehouseInventory.dll
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q3_WarehouseInventory\obj\Debug\net8.0\refint\Q3_WarehouseInventory.dll
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q3_WarehouseInventory\obj\Debug\net8.0\Q3_WarehouseInventory.pdb
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q3_WarehouseInventory\obj\Debug\net8.0\Q3_WarehouseInventory.genruntimeconfig.cache
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q3_WarehouseInventory\obj\Debug\net8.0\ref\Q3_WarehouseInventory.dll
