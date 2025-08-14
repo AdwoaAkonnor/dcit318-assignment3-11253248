@@ -1,0 +1,14 @@
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q1_FinanceManagement\bin\Debug\net8.0\Q1_FinanceManagement.exe
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q1_FinanceManagement\bin\Debug\net8.0\Q1_FinanceManagement.deps.json
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q1_FinanceManagement\bin\Debug\net8.0\Q1_FinanceManagement.runtimeconfig.json
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q1_FinanceManagement\bin\Debug\net8.0\Q1_FinanceManagement.dll
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q1_FinanceManagement\bin\Debug\net8.0\Q1_FinanceManagement.pdb
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q1_FinanceManagement\obj\Debug\net8.0\Q1_FinanceManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q1_FinanceManagement\obj\Debug\net8.0\Q1_FinanceManagement.AssemblyInfoInputs.cache
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q1_FinanceManagement\obj\Debug\net8.0\Q1_FinanceManagement.AssemblyInfo.cs
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q1_FinanceManagement\obj\Debug\net8.0\Q1_FinanceManagement.csproj.CoreCompileInputs.cache
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q1_FinanceManagement\obj\Debug\net8.0\Q1_FinanceManagement.dll
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q1_FinanceManagement\obj\Debug\net8.0\refint\Q1_FinanceManagement.dll
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q1_FinanceManagement\obj\Debug\net8.0\Q1_FinanceManagement.pdb
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q1_FinanceManagement\obj\Debug\net8.0\Q1_FinanceManagement.genruntimeconfig.cache
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q1_FinanceManagement\obj\Debug\net8.0\ref\Q1_FinanceManagement.dll
