@@ -1,0 +1,15 @@
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q5_InventoryLogger\bin\Debug\net8.0\Q5_InventoryLogger.exe
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q5_InventoryLogger\bin\Debug\net8.0\Q5_InventoryLogger.deps.json
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q5_InventoryLogger\bin\Debug\net8.0\Q5_InventoryLogger.runtimeconfig.json
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q5_InventoryLogger\bin\Debug\net8.0\Q5_InventoryLogger.dll
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q5_InventoryLogger\bin\Debug\net8.0\Q5_InventoryLogger.pdb
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q5_InventoryLogger\obj\Debug\net8.0\Q5_InventoryLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q5_InventoryLogger\obj\Debug\net8.0\Q5_InventoryLogger.AssemblyInfoInputs.cache
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q5_InventoryLogger\obj\Debug\net8.0\Q5_InventoryLogger.AssemblyInfo.cs
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q5_InventoryLogger\obj\Debug\net8.0\Q5_InventoryLogger.csproj.CoreCompileInputs.cache
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q5_InventoryLogger\obj\Debug\net8.0\Q5_InventoryLogger.sourcelink.json
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q5_InventoryLogger\obj\Debug\net8.0\Q5_InventoryLogger.dll
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q5_InventoryLogger\obj\Debug\net8.0\refint\Q5_InventoryLogger.dll
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q5_InventoryLogger\obj\Debug\net8.0\Q5_InventoryLogger.pdb
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q5_InventoryLogger\obj\Debug\net8.0\Q5_InventoryLogger.genruntimeconfig.cache
+C:\Users\woako\Downloads\dcit318-assignment3-11253248\Q5_InventoryLogger\obj\Debug\net8.0\ref\Q5_InventoryLogger.dll
